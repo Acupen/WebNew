@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15601903",
+      "name": "公文包",
+      "font_class": "gongwenbao",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "15601904",
+      "name": "钢笔",
+      "font_class": "gangbi",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "15601905",
+      "name": "尺子",
+      "font_class": "chizi",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "15601908",
+      "name": "文件袋",
+      "font_class": "wenjiandai",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "15601913",
+      "name": "篮球",
+      "font_class": "lanqiu",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    }
+  ]
+}

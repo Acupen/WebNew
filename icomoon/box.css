@@ -1,0 +1,99 @@
+/* icomoom中设置一些属性 */
+/* #fakebox-container{
+    margin: 0 auto 0 auto;
+    min-width: 410px;
+    width: var(--content-width);
+    flex-shrink: 0;
+}
+#fakebox{
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 78 );
+    background: white;
+    cursor: text;
+    margin: 0 auto;
+    max-width: 584px;
+    border-radius: 22px;
+    box-sizing: border-box;
+    font-size: 16px;
+    height: var(--searchbox-heihgt);
+    opacity: 1;
+    position: relative;
+    transition: none;
+}
+.icon- {
+    background-color: rgb(255, 255, 255);
+    bottom: 0;
+    left: 16px;
+    margin: auto;
+    position: absolute;
+    top: 24px;
+    width: 24px;
+}
+#fakebox-text {
+    bottom: 0;
+    color: rgb(117, 117, 117);
+    font-size: 16px;
+    height: 44px;
+    left: 0;
+    line-height: 44px;
+    margin: auto 0;
+    overflow: hidden;
+    position: absolute;
+    right: 44px;
+    text-align: initial;
+    text-overflow: ellipsis;
+    top: 0;
+    user-select: none;
+    vertical-align: middle;
+    visibility: inherit;
+    white-space: nowrap;
+} */
+/* #fakebox > input {
+    bottom: 0;
+    box-sizing: border-box;
+    left: 0;
+    margin: 0;
+    opacity: 0;
+    padding-inline-start: 20px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+} */
+/* #fakebox-cursor {
+    background: #333;
+    bottom: 14px;
+    left: 48px;
+    position: absolute;
+    top: 14px;
+    visibility: hidden;
+    width: 1px;
+} */
+/* .m-icon {
+    background: url();
+    background-size: 21px 21px;
+    bottom: 0;
+    cursor: pointer;
+    margin-inline-end: 16px;
+    padding: 22px 12px 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 21px;
+} */
+/* button {
+    -webkit-appearance: button;
+    text-rendering: auto;
+    color: -internal-light-dark-color(buttontext, rgb(170, 170, 170));
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    box-sizing: border-box;
+    font: 400 13.3333px Arial;
+} */
+.icon-user{
+    color: yellow;
+}

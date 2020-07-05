@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+}
+/* 使用icon font 添加图标 */
+@font-face {
+    font-family: 'iconfont';  /* project id 1923482 */
+    src: url('https://at.alicdn.com/t/font_1923482_qctnnwbyna.eot');
+    src: url('https://at.alicdn.com/t/font_1923482_qctnnwbyna.eot?#iefix') format('embedded-opentype'),
+    url('https://at.alicdn.com/t/font_1923482_qctnnwbyna.woff2') format('woff2'),
+    url('https://at.alicdn.com/t/font_1923482_qctnnwbyna.woff') format('woff'),
+    url('https://at.alicdn.com/t/font_1923482_qctnnwbyna.ttf') format('truetype'),
+    url('https://at.alicdn.com/t/font_1923482_qctnnwbyna.svg#iconfont') format('svg');
+  }
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+  }
+
+.main{
+    width: 350px;
+    margin: 10px auto;
+}
+li{
+    list-style: none;
+}
+.top-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 40px;
+    line-height: 40px;
+    background-color: rgb(249, 20, 20);
+    width: 100%;
+}
+.two{
+    display: flex;
+    background-color:#dcdcdc ;
+    padding: 10px 0px;
+}
+.bottom-tab{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 40px;
+    line-height: 40px;
+    background-color:rgb(249, 20, 20) ;
+    width: 100%;
+    color: white;
+}
+.left-li{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+}
+.left-li li{
+    text-align: center;
+    border-bottom: rgb(255, 255, 255) solid 2px;
+    padding-bottom: 30px;
+    background-color: rgb(255, 255, 255);
+    border-color: #bcbcbc;
+    padding-top: 18px;
+    height: 13px;
+}
+.right{
+    width: 80%;
+    margin: 0px 10px;
+    background-color: rgb(255, 255, 255);
+    height:441px ;
+
+}
+.right ul{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around ;
+    flex-wrap: wrap;
+}
+.right ul li{
+    width: 30px;
+    height: 31px;
+    margin: 15px 20px;
+    text-align: center;
+}
+.fontsize2 li {
+ width: 30px;
+ height: 30px;
+
+}
+.fontsize1{
+    /* width: 30px;
+    height: 30px;  */
+    color: blue;
+    font-size:30px;
+}
